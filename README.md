@@ -51,7 +51,7 @@ I build ML and generative AI systems — currently exploring LLMs, RAG pipelines
 
 ### 🚀 Featured Project
 
-**[🎮 Universal Game Nexus](https://github.com/I-Karthik-L/REPLACE-WITH-REPO-NAME)**  
+**[🎮 Game Recommendation Engine](https://github.com/I-Karthik-L/Game-recommendation-system)**  
 *Machine Learning · NLP · TF-IDF · Cosine Similarity · Streamlit · Python*  
 A cross-platform, content-based recommendation engine that bridges the gap between digital video games and tabletop board games. Uses TF-IDF vectorization and Cosine Similarity to analyze game tags and descriptions, with a glassmorphism UI built in Streamlit and CSS.
 
