@@ -1,4 +1,4 @@
-# 🏄‍♂️ Karthik L
+#  Karthik L
 
 I build ML and generative AI systems — currently exploring LLMs, RAG pipelines, and AI agents. B.Tech CSE student in Trivandrum, Kerala, open to full-time and internship roles in AI/ML.
 
