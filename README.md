@@ -69,7 +69,7 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-### 🎮 [Universal Game Nexus](https://github.com/I-Karthik-L/REPLACE-WITH-REPO-NAME)
+### 🎮 [Universal Game Nexus](https://github.com/I-Karthik-L/Game-recommendation-system)
 > **Machine Learning · NLP · TF-IDF · Cosine Similarity · Streamlit**
 
 A cross-platform, content-based recommendation engine bridging digital video games and tabletop board games. Uses TF-IDF vectorization and Cosine Similarity to analyze game tags and descriptions, with a glassmorphism UI built in Streamlit and CSS.
