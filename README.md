@@ -57,12 +57,4 @@ A cross-platform, content-based recommendation engine that bridges the gap betwe
 
 #
 
-### 📊 GitHub Stats
 
-<p align="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=I-Karthik-L&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Karthik-L&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=1"/>
-</p>
-<p align="left">
-   <img src="https://streak-stats.demolab.com?user=I-Karthik-L&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-</p>
