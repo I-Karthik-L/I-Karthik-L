@@ -90,13 +90,6 @@ A cross-platform, content-based recommendation engine bridging digital video gam
 
 ---
 
-### 😷 [Face Mask Detection](https://github.com/I-Karthik-L/REPO-NAME)
-> **Computer Vision · CNN · Image Classification · OpenCV**
-
-A CNN that classifies apples as good or bad from images, trained on a balanced dataset and aimed at live webcam detection with OpenCV.
-
----
-
 
 ## 🎯 Currently
 
