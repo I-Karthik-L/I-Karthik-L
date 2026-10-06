@@ -76,7 +76,7 @@ A Retrieval-Augmented Generation app where you upload multiple PDFs, choose exac
 
 ---
 
-### 🧠 [Brain Tumor MRI Classification](https://github.com/I-Karthik-L/REPO-NAME)
+### 🧠 [Brain Tumor MRI Classification](https://github.com/I-Karthik-L/CNN-Brain_Tumor)
 > **Deep Learning · CNN · Image Augmentation · Transfer Learning · ResNet50**
 
 A CNN-based classifier that detects brain tumors from MRI scans (tumor / no tumor). Built step by step: a baseline CNN, then image augmentation to improve generalization, then ResNet50 transfer learning.
