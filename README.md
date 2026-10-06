@@ -69,10 +69,31 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
+### 📄 [Multi-PDF RAG Question Answering System](https://github.com/I-Karthik-L/PDF-RAG-QAS)
+> **Generative AI · RAG · FastAPI · LangChain · ChromaDB · Groq**
+
+A Retrieval-Augmented Generation app where you upload multiple PDFs, choose exactly which ones to search, and get answers with the source filename and page number. Retrieval runs per document so no single PDF dominates the results, embeddings are stored in a persistent ChromaDB collection, and the LLM is prompted to answer only from the retrieved context. Includes upload validation and unit tests.
+
+---
+
+### 🧠 [Brain Tumor MRI Classification](https://github.com/I-Karthik-L/REPO-NAME)
+> **Deep Learning · CNN · Image Augmentation · Transfer Learning · ResNet50**
+
+A CNN-based classifier that detects brain tumors from MRI scans (tumor / no tumor). Built step by step: a baseline CNN, then image augmentation to improve generalization, then ResNet50 transfer learning.
+
+---
+
 ### 🎮 [Universal Game Nexus](https://github.com/I-Karthik-L/Game-recommendation-system)
 > **Machine Learning · NLP · TF-IDF · Cosine Similarity · Streamlit**
 
 A cross-platform, content-based recommendation engine bridging digital video games and tabletop board games. Uses TF-IDF vectorization and Cosine Similarity to analyze game tags and descriptions, with a glassmorphism UI built in Streamlit and CSS.
+
+---
+
+### 😷 [Face Mask Detection](https://github.com/I-Karthik-L/REPO-NAME)
+> **Computer Vision · CNN · Image Classification · OpenCV**
+
+A CNN that classifies apples as good or bad from images, trained on a balanced dataset and aimed at live webcam detection with OpenCV.
 
 ---
 
